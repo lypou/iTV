@@ -1,4 +1,3 @@
-高清,#genre#
 CCTV1-综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV-2财经频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226466/index.m3u8
 CCTV-3综艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226461/index.m3u8
