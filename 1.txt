@@ -46,7 +46,7 @@ CCTV风云音乐,http://121.19.134.153:808/tsfile/live/1036_1.m3u8?key=txiptv&pl
 东南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226423/index.m3u8
 内蒙古卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
 广西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
-山西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 海南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8
 甘肃卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226415/index.m3u8
 青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8
@@ -77,9 +77,11 @@ CCTV风云音乐,http://121.19.134.153:808/tsfile/live/1036_1.m3u8?key=txiptv&pl
 信阳公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226367/index.m3u8
 信阳浉河电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8
 信阳平桥广电,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-NewTV军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 NewTV农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NewTV家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
