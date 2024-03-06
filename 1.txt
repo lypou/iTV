@@ -1,4 +1,5 @@
-CCTV1-综合频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+高清,#genre#
+CCTV1-综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV-2财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226466/index.m3u8
 CCTV-3综艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226461/index.m3u8
 CCTV-4中文国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226468/index.m3u8
@@ -17,7 +18,7 @@ CCTV-17农村农业,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-5+体育赛事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 CCTV-1教育电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8
 河南IPTV导视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8
-河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 都市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
 民生频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 法治频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226435/index.m3u8
